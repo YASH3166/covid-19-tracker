@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.logo{
+  margin: 30px 0px 0px 0px;
+  width: 400px;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+.italics{
+  font-style: italic;
+  font-weight: 300;
+}
+
+
+/*
+i/P: 10->2->4->6->7->9->10->12
+O/P: 6->4->2->10->7->9->12->10
+*/
 
 .App-header {
   background-color: #282c34;
